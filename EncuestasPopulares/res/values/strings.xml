@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Encuesta Presidencial</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logo_imagen">Contenido imagen logo inicial</string>
+    <string name="descripcion_texto">Esta encuesta no pertenece a ningún partido, ni organización gubernamental o no gubernamental solo se quiere recopilar opiniones a través de los dispositivos móviles. Ningún dato personal será guardado ni entregado a ninguna entidad.</string>
+    <string name="aceptar_btn">Aceptar</string>
+    <string name="cancelar_btn">Cancelar</string>
+    <string name="enviar_btn">Enviar y Ver Resultados</string>
+    <string name="texto_pregunta">¿Por quien votara en las primarias 2013?</string>
+    <string name="titulo_nuevamayoria">Nueva Mayoría</string>
+    <string name="candidato_1">Michelle Bachelet Jeria</string>
+    <string name="candidato_2">José Antonio Gómez Urrutia</string>
+    <string name="candidato_3">Claudio Orrego Larraín</string>
+    <string name="candidato_4">Andrés Velasco Brañes</string>
+    <string name="titulo_alianza">Alianza</string>
+    <string name="candidato_5">Andrés Allamand Zavala</string>
+    <string name="candidato_6">Pablo Longueira Montes</string>
+    <string name="titulo_independientes">Partidos extraparlamentarios e independientes</string>
+    <string name="candidato_7">Marcel Claude Reyes</string>
+    <string name="candidato_8">Marco Enríquez-Ominami Gumucio</string>
+    <string name="candidato_9">Tomás Jocelyn-Holt Letelier</string>
+    <string name="candidato_10">Roxana Miranda Meneses</string>
+    <string name="candidato_11">Franco Parisi Fernández</string>
+    <string name="candidato_12">Gustavo Ruz Zañartu</string>
+    <string name="candidato_13">Alfredo Sfeir Younis</string>
+    <string name="texto_ayuda">Favor elegir una opción y hacer click en el boton enviar abajo</string>
+    <string name="title_activity_show_candidates">Presidenciales 2013</string>
+    <string name="title_activity_gracias">Gracias</string>
+    <string name="already_voted">No</string>
+    <string name="title_activity_personal_fields">Ingreso Datos Demograficos</string>
+    <string name="titulo_ingreso_datos">Favor Ingrese datos sobre su edad y comuna donde reside (Datos opcionales solo para generar estadisticas)</string>
+    <string name="candidate_selected_label">Candidato Seleccionado: </string>
+
+</resources>
